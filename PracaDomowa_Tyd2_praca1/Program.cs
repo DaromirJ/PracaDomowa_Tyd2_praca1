@@ -56,7 +56,7 @@ namespace PracaDomowa
 
             //Zadanie 4
 
-            double value1;
+            int value1;
             string value2;
             double value3;
 
