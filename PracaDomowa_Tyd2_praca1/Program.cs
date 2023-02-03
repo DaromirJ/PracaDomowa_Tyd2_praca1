@@ -10,15 +10,15 @@ namespace PracaDomowa
 
             string firstName = "Dariusz";
             string lastName = "Jóźwicki";
-            int Age = 64;
+            int age = 64;
             string sex = "mężczyzna";
             string pesel = "59010122222";
-            int nrWork = 16859;
+            int nrEmpl = 16859;
 
             Console.WriteLine("Zadanie 1");
-            Console.WriteLine("Nr pracownika " + nrWork);
+            Console.WriteLine("Nr pracownika " + nrEmpl);
             Console.WriteLine(firstName + " " + lastName);
-            Console.WriteLine($"wiek {Age}, płeć {sex}, PESEL: {pesel} \r\n");
+            Console.WriteLine($"wiek {age}, płeć {sex}, PESEL: {pesel} \r\n");
             Console.ReadLine();
 
 
