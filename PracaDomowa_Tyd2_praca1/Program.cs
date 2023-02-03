@@ -23,14 +23,14 @@ namespace PracaDomowa
 
 
             //Zadanie 2
-            char lett1 = 'A';
-            char lett2 = 'B';
-            char lett3 = 'C';
+            char sign1 = 'A';
+            char sign2 = 'B';
+            char sign3 = 'C';
 
             Console.WriteLine("Zadanie 2");
-            Console.WriteLine(lett3);
-            Console.WriteLine(lett2);
-            Console.WriteLine(lett1);
+            Console.WriteLine(sign3);
+            Console.WriteLine(sign2);
+            Console.WriteLine(sign1);
             Console.WriteLine();
             Console.ReadLine();
 
